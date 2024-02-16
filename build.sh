@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t newimage .
+docker build -t mynewimage .
