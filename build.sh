@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t mynewimage .
+docker build -t capstone .
